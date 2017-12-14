@@ -1,12 +1,13 @@
 body {
     margin: 0;
-    background: #F7EBEC;
+    background-image: url("Red.jpg");
 }
 
 .header {
     height: 60px;
     width: 100%;
-    box-shadow: 0px 1px 10px #888;;
+    box-shadow: 0px 1px 10px #888;
+    ;
     background: #384F4E;
 }
 
@@ -18,7 +19,7 @@ body {
 .logo {
     font-size: 32px;
     padding-top: 10px;
-    width:10%;
+    width: 10%;
     color: #C33C54;
     float: left;
 }
@@ -86,7 +87,7 @@ body {
     background: transparent;
 }
 
-#search-box input[type="text"]{
+#search-box input[type="text"] {
     width: 90%;
     padding: 11px 0 12px 1em;
     color: #333;
@@ -104,7 +105,7 @@ body {
     text-align: center;
     line-height: 42px;
     border-width: 0;
-    background-color:#384F4E;
+    background-color: #384F4E;
     cursor: pointer;
     transition: 0.2s;
 }
@@ -114,9 +115,9 @@ body {
     color: #FFF;
 }
 
-.items {    
+.items {
     margin: 50px auto auto auto;
-    box-shadow: 0px 2px  10px #888888;
+    box-shadow: 0px 2px 10px #888888;
     background: #FFF;
     padding: 20px;
     width: 95%;
