@@ -1,6 +1,8 @@
 body {
     margin: 0;
-    background: #F7EBEC;
+    background: url("Background.png");
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 
 .header {
